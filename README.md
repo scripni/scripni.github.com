@@ -1,2 +1,0 @@
-scripni.github.com
-==================
